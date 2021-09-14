@@ -1,2 +1,1 @@
-# flipbooktest.github.io
-A test for website hosting
+Class IX A Magazine for the year 2021
