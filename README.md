@@ -1,2 +1,2 @@
-# magazine
-Class Magazine for IX A 2021
+# flipbooktest.github.io
+A test for website hosting
